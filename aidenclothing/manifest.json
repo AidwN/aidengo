@@ -1,0 +1,14 @@
+{
+    "name": "Aiden Clothing",
+    "description": "Made By AideN Easier Than Discord bot",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "background" : {
+        "scripts" : ["aiden.js"]
+    },
+    "browser_action" : {
+        "default_icon": "dumbass.png"
+    },
+    "icons": { "128": "dumbass.png" },
+    "permissions": ["activeTab"]
+}
